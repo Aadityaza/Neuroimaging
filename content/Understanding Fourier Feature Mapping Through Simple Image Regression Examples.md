@@ -1,7 +1,6 @@
 ### Understanding Fourier Feature Mapping Through Simple Image Regression Examples
 
   
-
 #### Introduction
 
 In the realm of neural networks, particularly Multilayer Perceptrons (MLPs), capturing high-frequency signals in data remains a challenging task. This article delves into Fourier feature mapping, a technique used to enable neural networks, especially MLPs (multilayer perceptions), to better capture high-frequency signals in data, particularly in low-dimensional domains such as image and graphics processing. 
